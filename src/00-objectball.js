@@ -234,3 +234,5 @@ function bigShoeRebounds(){
 }
   return maxSize;
 }
+
+//TODO: Write a function that returns true if the player with the longest name had the most steals. Call the function doesLongNameStealATon.
